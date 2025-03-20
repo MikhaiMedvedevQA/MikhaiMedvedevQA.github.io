@@ -59,7 +59,8 @@ body {
 }
 
 .links__container {
-  background-color: #fff;
+  -- background-color: #fff;
+  background-color: #dbdbdb;
   list-style-type: none;
   border: 1px solid hsla(210, 18%, 87%, 1);
   border-radius: 10px;
@@ -118,7 +119,8 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #fff;
+  -- background: #fff;
+  background: #dbdbdb;
   border: 1px solid rgba(27, 31, 36, 0.15);
   border-radius: 5px;
 
